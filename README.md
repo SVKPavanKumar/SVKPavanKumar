@@ -7,7 +7,6 @@
 
 
 - 👀 I’m interested in technology
-- 🌱 I’m currently learning python(I'm a beginner lol😂) 
 - 😄 Pronouns: He/Him/His
 
 
