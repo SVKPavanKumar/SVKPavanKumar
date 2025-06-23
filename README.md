@@ -5,13 +5,12 @@
   <h1>Hello, I'm pavan Kumar! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> </h1>
 </div>
 
-
-- 👀 I’m interested in technology
+## 👋 About Me
 - 😄 Pronouns: He/Him/His
+- 🔭 Final-year B.Tech graduate in Electrical & Computer Engineering from Amrita Vishwa Vidyapeetham.
+- 💡 Passionate about ML, Web Dev, and solving real-world problems.
+- ⚙️ Skills: C++, Python, SQL, HTML/CSS/JS, Flask, React.js .
 
-
-
-- 🔭 I am currently pursuing B.tech in Electrical and computer Engineering.
 
 <h1 align="left">GitHub Stats</h1>
 <p align="center"><img src = "https://github-readme-stats.vercel.app/api?username=SVKPavanKumar&show_icons=true&theme=radical&hide_rank=false"/></p>
